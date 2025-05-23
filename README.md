@@ -6,3 +6,5 @@
     + pip freeze > requirements.txt
 2. Run the app
     + python app.py
+3. Test the app
+    + Test commit
