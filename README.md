@@ -4,3 +4,5 @@
     + venv\Scripts\activate
     + pip install -r requirements.txt
     + pip freeze > requirements.txt
+2. Run the app
+    + python app.py
